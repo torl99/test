@@ -3,5 +3,5 @@
  */
 public class A {
 
-    abcdefggg
+    abcdefgggsswss
 }
